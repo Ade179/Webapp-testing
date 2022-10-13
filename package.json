@@ -1,0 +1,23 @@
+{
+  "name": "webapp-testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ade179/Webapp-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ade179/Webapp-testing/issues"
+  },
+  "homepage": "https://github.com/Ade179/Webapp-testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
